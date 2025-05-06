@@ -8,7 +8,7 @@ public class AppConstants {
 	public static final int MEDIUM_DEFAULT_TIMEOUT = 10;
 	public static final int LONG_DEFAULT_TIMEOUT = 15;
 
-	// Test comment
+	// Test comment updated
 	public static final String LOGIN_PAGE_TITLE = "Account Login11";
 	public static final String HOME_PAGE_TITLE = "My Account";
 	
